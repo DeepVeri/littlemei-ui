@@ -61,6 +61,15 @@ export default {
       subtitle: 'Create Your One and Only',
       cta: 'Start Creating'
     },
+    quickBuy: {
+      title: 'Amazing Deals - Limited Time',
+      subtitle: 'Curated affordable essentials, add to cart with one click'
+    },
+    outfitDesign: {
+      title: 'Designer Curated Outfits',
+      subtitle: 'Pre-styled by experts, save time and look great with complete outfit sets',
+      viewDetails: 'View Details'
+    },
     stats: {
       products: 'Products',
       customers: 'Happy Customers',

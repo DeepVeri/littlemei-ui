@@ -61,6 +61,15 @@ export default {
       subtitle: '创造属于你的独一无二',
       cta: '开始创作'
     },
+    quickBuy: {
+      title: '超值好物 限时特惠',
+      subtitle: '精选便宜实用好物，一键加入购物车'
+    },
+    outfitDesign: {
+      title: '原创搭配设计',
+      subtitle: '设计师精心搭配，省时省心，一键购买整套搭配',
+      viewDetails: '查看详情'
+    },
     stats: {
       products: '商品',
       customers: '满意客户',
