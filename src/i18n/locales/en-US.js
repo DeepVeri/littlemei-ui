@@ -141,6 +141,40 @@ export default {
     delete: 'Delete',
     edit: 'Edit',
     more: 'More'
+  },
+  footer: {
+    platform: {
+      title: 'Platform',
+      merchant: 'Merchant Portal',
+      open: 'Open Platform',
+      join: 'Join Us'
+    },
+    legal: {
+      title: 'Legal',
+      privacy: 'Privacy Policy',
+      terms: 'Terms of Service',
+      copyright: 'Intellectual Property',
+      disclaimer: 'Disclaimer',
+      report: 'Report'
+    },
+    follow: {
+      title: 'Follow Us',
+      wechat: 'WeChat Official',
+      miniapp: 'Mini Program',
+      weibo: 'Weibo'
+    },
+    download: {
+      title: 'Download App',
+      scanQR: 'Scan to Download',
+      appStore: 'App Store',
+      android: 'Google Play'
+    },
+    company: {
+      name: 'Shanghai LittleMei Information Group Co., Ltd.',
+      rights: 'All Rights Reserved',
+      email: 'Email',
+      phone: 'Customer Service'
+    }
   }
 }
 

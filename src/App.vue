@@ -7,6 +7,7 @@
         <router-view />
       </main>
     </div>
+    <Footer />
     <FloatingLangSwitcher />
   </div>
 </template>
@@ -16,6 +17,7 @@ import { onMounted } from 'vue'
 import { useLanguage } from './composables/useLanguage'
 import Header from './components/Header.vue'
 import Sidebar from './components/Sidebar.vue'
+import Footer from './components/Footer.vue'
 import FloatingLangSwitcher from './components/FloatingLangSwitcher.vue'
 
 // 初始化语言设置

@@ -141,6 +141,40 @@ export default {
     delete: '删除',
     edit: '编辑',
     more: '更多'
+  },
+  footer: {
+    platform: {
+      title: '关联平台',
+      merchant: '商家后台',
+      open: '开放平台',
+      join: '加入我们'
+    },
+    legal: {
+      title: '声明',
+      privacy: '隐私政策',
+      terms: '用户协议',
+      copyright: '知识产权',
+      disclaimer: '自律声明',
+      report: '廉政举报'
+    },
+    follow: {
+      title: '关注我们',
+      wechat: '微信公众号',
+      miniapp: '微信小程序',
+      weibo: '微博'
+    },
+    download: {
+      title: '下载App',
+      scanQR: '微信扫码下载',
+      appStore: 'App Store 下载',
+      android: '安卓应用市场下载'
+    },
+    company: {
+      name: '上海小美信息集团有限公司',
+      rights: '保留所有权利',
+      email: '邮箱',
+      phone: '客服热线'
+    }
   }
 }
 
